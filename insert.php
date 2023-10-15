@@ -1,7 +1,4 @@
 <?php
-// Include MongoDB PHP library
-require 'vendor/autoload.php';
-
 
 // Set up MongoDB connection
 $client = new MongoDB\Client('mongodb+srv://marjoriedeleon666:Reservation@cluster0.hq3leyp.mongodb.net/Reservation');
